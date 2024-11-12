@@ -15,14 +15,14 @@
 - 💻 Assistente de TI Júnior na Dunorte Distribuidora
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas, graduando em 2025
 - 🐍 Aventurando-se no desenvolvimento com Python
-- 🚀 Desenvolvi o [projeto RestauranteManager em Python](https://github.com/k-costa/RestauranteManager)
+- 🚀 Desenvolvi o [projeto SaborExpress em Python](https://github.com/k-costa/SaborExpress/tree/master)
 - ⚡ Apaixonado por aprendizado contínuo e explorar novas tecnologias
 
 ## Projetos
-- **RestauranteManager**: Um projeto em Python para gerenciar registros de restaurantes, aplicando manipulação de dados, estruturas de controle e código modular.
+- **SaborExpress**: Um projeto em Python para gerenciamento de restaurantes, com funcionalidades de cadastro, listagem e alteração de status de estabelecimentos.
 
 ## Certificações
-- **Python para Iniciantes - Alura**: Curso concluído cobrindo manipulação de dados, estruturas de controle e modularização de código.
+- [**Aprendendo Python: Conceitos Básicos - Asimov**](https://hub.asimov.academy/validar-certificado?id=64670c52-f035-48f2-b48e-9fdca1262d50)
 
 ## Contato
 <div> 
@@ -49,14 +49,14 @@
 - 💻 Junior IT Assistant at Dunorte Distribuidora
 - 🎓 Student of Systems Analysis and Development, graduating in 2025
 - 🐍 Exploring development with Python
-- 🚀 Developed the [RestauranteManager project in Python](https://github.com/k-costa/RestauranteManager)
+- 🚀 Developed the [SaborExpress project in Python](https://github.com/k-costa/SaborExpress/tree/master)
 - ⚡ Passionate about continuous learning and exploring new technologies
 
 ## Projects
-- **RestauranteManager**: A Python project for managing restaurant records, applying data manipulation, control structures, and modular code.
+- **SaborExpress**: A Python project for managing restaurants, with features for registration, listing, and status updating.
 
 ## Certifications
-- **Python for Beginners - Alura**: Completed a course covering data manipulation, control structures, and modularization of code.
+- [**Learning Python: Basic Concepts - Asimov**](https://hub.asimov.academy/validar-certificado?id=64670c52-f035-48f2-b48e-9fdca1262d50)
 
 ## Contact Me
 <div> 
